@@ -1,4 +1,4 @@
-# INCITE: Training LLMs to Cite Verbatim Evidence Spans
+# FullCITE: Training LLMs to Cite Verbatim Evidence Spans
 
 Code for training and running the citation models from the paper. A model
 answers a question from a set of retrieved documents and grounds each claim in a
